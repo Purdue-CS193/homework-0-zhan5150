@@ -1,3 +1,12 @@
+# Brandon's First CS193 Class
+
+## Favorite things about this course
+
+- Getting to use tools for computer coding, and exploring how GitHub works
+- Thanks to this awesome crew of teachers and TA's, I'm able to utilize programming instruments, effectively bridging my knowledge into the fascinating world of computer science
+- Applying class content covered throughout the course to real-world contexts, and using what I've learnt to solve coding related problems
+- No final exams:)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
